@@ -1,4 +1,4 @@
 Brickbreaker
 ============
 
-Buggy brickbreaker app can be played on windows or android
+Brickbreaker clone that can be played on desktop environments or android
